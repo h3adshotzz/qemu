@@ -1,0 +1,1 @@
+/Users/h3adsh0tzz/Desktop/ViOS/qemu/.gdbinit
